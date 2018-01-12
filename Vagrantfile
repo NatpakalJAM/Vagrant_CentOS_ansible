@@ -1,3 +1,5 @@
+# basic Vagrant CentOS with ansible
+
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
